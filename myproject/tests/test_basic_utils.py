@@ -6,3 +6,6 @@ def test_multiply_by_10():
     assert multiply_by_10(-1) == -10
     assert multiply_by_10(inf) == inf
     assert multiply_by_10(-inf) == -inf
+
+# 40 minutes into lecture how to install package
+# python setup.py install
